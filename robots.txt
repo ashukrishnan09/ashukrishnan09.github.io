@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://praveengupta.me/sitemap/sitemap-index.xml
+Host: https://praveengupta.me
