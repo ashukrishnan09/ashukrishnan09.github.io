@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://praveengupta.me/sitemap/sitemap-index.xml
-Host: https://praveengupta.me
+Sitemap: https://ashuyadav4149/sitemap/sitemap-index.xml
+Host: https://ashuyadav4149
